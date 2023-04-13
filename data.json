@@ -1,0 +1,45 @@
+{
+	"types":{
+		"pills":{
+			"image":"https://pngimg.com/uploads/pills/pills_PNG16532.png",
+			"title": "Таблетки",
+			"description":"Форма медикаментів для перорального застосування в твердій формі.",
+			"color":"182, 163, 245"
+		},
+		"capsules":{
+			"image":"pngegg.png",
+			"title": "Капсули",
+			"description":"Форма медикаментів для перорального застосування.",
+			"color":"135, 176, 249"
+		},
+		"sprays":{
+			"image":"https://cdn0.iconfinder.com/data/icons/medical-corona-healthcare-1/50/65-512.png",
+			"title": "Спреї",
+			"description":"Форма медикаментів для застосування через рот, ніс або на шкіру.",
+			"color":"132, 160, 248"
+		}
+	},
+	"items":[
+		{
+			"image": "images/aspirin.png",
+			"title": "Аспірин",
+			"short_description": "Препарат проти болю та запалення, має протизгортальний ефект.",
+			"description": "https://docs.google.com/document/d/1leQAvx5gQlj5ZoCHoEnnKi7l5YHGXpK2EVwzYhE5hOo",
+			"type": "pills"
+		},
+		{
+			"image": "images/aleron.png",
+			"title": "Алерон 10",
+			"short_description": "Антигістаміновий засіб, що знімає симптоми алергії.",
+			"description": "https://docs.google.com/document/d/1FZ67tm0pDTo31Elk8N1WCXiOs7my1eLnr0rcF_5SdyY",
+			"type": "pills"
+		},
+		{
+          "image": "images/bifiform.png",
+          "title": "Біфіформ",
+          "short_description": "Пробіотик для нормалізації травного тракту.",
+          "description": "https://docs.google.com/document/d/1L7O32l2xjeOQjnqiCrvSnkLOfHoVsLmdcGcmAoztW7I",
+          "type": "capsules"
+    }
+	]
+}
